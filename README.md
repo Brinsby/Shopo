@@ -1,8 +1,6 @@
 # Shopo
 A small test site for helping connect people to things they like!
 
- 
- 
  WINTERS INC. CONFIDENTIAL
  __________________
  
@@ -18,4 +16,3 @@ A small test site for helping connect people to things they like!
  Dissemination of this information or reproduction of this material
  is strictly forbidden unless prior written permission is obtained
  from Winters Incorporated.
- 
